@@ -1,5 +1,5 @@
 # Data Types in R
-# 1. Numeric data types - Integer / Floating types
+# 1. Numeric data types - Integer / Floating point types
 # 2. String/Character data types - "Forhad" / 'Forhad'
 # 3. Logical data types - 
 
